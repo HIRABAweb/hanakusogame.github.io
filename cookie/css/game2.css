@@ -1,0 +1,18 @@
+/* トップメニュー */
+.full {
+  margin: 0 calc(50% - 50vw);
+  width: 100vw;
+}
+
+.full .nav{
+  padding: 8px 0px;
+}
+.full .nav .nav-link{
+  text-decoration: none;
+  color: white;
+  padding-left: 0px;
+}
+
+h3{
+  padding-bottom: 8px;
+}
